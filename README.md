@@ -13,13 +13,14 @@ npm install jp-postal-code
 # Usage
 
 ```javascript
-var postalCode = require('jp-postal-code');
+var jpPostalCode = require('jp-postal-code');
 
-postalCode('1000001', function(address) {
-  console.log(address.prefecture); // => "東京都"
-  console.log(address.city); // => "千代田区"
-  console.log(address.area); // => "千代田"
-  console.log(address.street); // => ""
+jpPostalCode('1000001', function(address) {
+  console.log(address.prefecture_id); // => "13"
+  console.log(address.prefecture);    // => "東京都"
+  console.log(address.city);          // => "千代田区"
+  console.log(address.area);          // => "千代田"
+  console.log(address.street);        // => ""
 });
 ```
 
