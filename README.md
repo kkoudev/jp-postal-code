@@ -4,6 +4,9 @@ JP Postal code is JavaScript library for searching addresses from Japan postal c
 
 Forked from https://github.com/mzp/japan-postal-code
 
+JP Postal code is supported webpack2.
+(Japan Postal code is not supported webpack2.)
+
 # Installation
 
 ```bash
