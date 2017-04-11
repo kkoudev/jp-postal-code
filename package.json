@@ -1,6 +1,6 @@
 {
   "name": "jp-postal-code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Search Japan postal code library.",
   "main": "lib/index.js",
   "scripts": {
