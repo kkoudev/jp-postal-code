@@ -1,0 +1,22 @@
+{
+  "name": "jp-postal-code",
+  "version": "0.0.1",
+  "description": "Search Japan postal code library.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Koichi Nagaoka",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "eslint": "^3.19.0",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.6.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
+  },
+  "dependencies": {
+    "jsonp": "^0.2.1"
+  }
+}
