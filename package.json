@@ -1,6 +1,6 @@
 {
   "name": "jp-postal-code",
-  "version": "0.0.4",
+  "version": "0.2.0",
   "description": "JavaScript library for searching addresses for Japan postal code.",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "karma start"
   },
-  "author": "Koichi Nagaoka",
+  "author": "kkoudev",
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^7.2.1",
